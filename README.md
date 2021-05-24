@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Officialshivam136
+- 👋 Hi, I’m @SHIVAM SINGH
 - 👀 I’m interested in tech and coding
 - 🌱 I’m currently learning Oracle and Swift
 - 💞️ I’m a part time freelancer on fiverr.
