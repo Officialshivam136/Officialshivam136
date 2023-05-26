@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHIVAM SINGH
 - 👀 I’m interested in tech and coding
-- 🌱 I’m currently learning Oracle and Swift
+- 🌱 I’m currently learning React and Flutter
 - 💞️ I’m a part time freelancer on fiverr.
 - 📫 To reach me- officialshivam136
 
