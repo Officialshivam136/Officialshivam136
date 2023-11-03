@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/codershivam136" target="blank"><img src="https://img.shields.io/twitter/follow/codershivam136?logo=twitter&style=for-the-badge" alt="codershivam136" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase, Azure, React, Djaango**
+- 🌱 I’m currently learning **Firebase, Azure, React, Django**
 
 - 💬 Ask me about **react, vue, express**
 
