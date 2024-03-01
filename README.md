@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Full Stack Web Developer, Open Source Contributor in Hacktoberfest 2023 from Bijnor,India</h3>
+<h3 align="center">A passionate Full Stack Web Developer, Open Source Contributor in Hacktoberfest 2023 from Ghaziabad India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialshivam136&label=Profile%20views&color=0e75b6&style=flat" alt="officialshivam136" /> </p>
 
